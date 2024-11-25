@@ -28,4 +28,16 @@ h1{
 }
 .categoria{
     background: aliceblue;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.categoria-videos leg{
+    opacity: 0.5;
+    height: 20px;
 }
