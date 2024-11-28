@@ -39,5 +39,9 @@ h1{
 }
 .categoria-videos leg{
     opacity: 0.5;
-    height: 20px;
+    height: 200px;
+}
+.categoria-videos img-hover{
+    opacity: 1,0;
+    border: 3px solid pink;
 }
